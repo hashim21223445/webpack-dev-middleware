@@ -86,7 +86,7 @@
     "eslint": "^8.28.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.25.4",
-    "execa": "^5.1.1",
+    "execa": "^9.5.2",
     "express": "^4.17.1",
     "fastify": "^4.26.2",
     "file-loader": "^6.2.0",
